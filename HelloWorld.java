@@ -1,5 +1,5 @@
 /**
-  * The simplest java program
+  * A simple Java program
  */
 public class HelloWorld {
     public static void main (String... s) {
